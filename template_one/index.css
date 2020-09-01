@@ -1,0 +1,15 @@
+.post {
+    border: gray 1px solid;
+    margin: 20px;
+    margin-top: 8%;;
+    max-height: 20rem;
+}
+
+.btn {
+    width: 10rem;
+
+}
+.next {
+    height: 15px;
+    width: 20px;
+}
